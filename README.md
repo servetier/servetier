@@ -6,3 +6,6 @@ I am Servetier, or Ser (zee-er) for short. My pronouns are they/them. I'm a novi
 
 ### Projects
 Currently Working On: Awesome Git Beginner Resources and https://www.servetier.com
+
+### Socials
+[![Twitter Link](https://img.shields.io/twitter/follow/servetier?style=social)](https://twitter.com/servetier/)
